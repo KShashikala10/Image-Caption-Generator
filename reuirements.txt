@@ -1,0 +1,19 @@
+# === Core Deep Learning ===
+tensorflow==2.13.0
+keras==2.13.1
+
+# === Data Processing ===
+numpy==1.24.3
+pandas==2.1.1
+scikit-learn==1.3.0
+pillow==9.5.0
+
+# === Utilities ===
+tqdm==4.66.1
+nltk==3.8.1
+
+# === Visualization (optional) ===
+matplotlib==3.7.2
+
+# === Optional (for evaluating captions) ===
+opencv-python==4.8.0.74
